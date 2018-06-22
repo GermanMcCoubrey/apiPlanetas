@@ -1,0 +1,8 @@
+com\meli\App.class
+com\meli\util\Utiles.class
+com\meli\services\PeriodoService.class
+com\meli\controller\PlanetaController.class
+com\meli\dto\PeriodoDTO.class
+com\meli\models\PeriodoModel.class
+com\meli\repository\PeriodoRepository.class
+com\meli\util\CustomErrorType.class
